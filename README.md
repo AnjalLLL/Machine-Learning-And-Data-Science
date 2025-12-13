@@ -2,6 +2,19 @@
 -12/13/2025
 This is my machine learning and data science journey where I am trying to learn deep concept of these topics and for this I follow GeeksForGeeks roadmap 
 Today I learned theoritical knowledge of data science and its utilities and how it works in real life.
+-Learning list 
+---decleare variable
+---understanding data type
+---assigning multiple and diffferent values in variabe
+---type casting in python 
+---deleting variables
+---Swapping , Counting charager of string , importing and learning abot keyword in python
+
+
+
+
+
+
 
 
 
